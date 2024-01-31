@@ -5,7 +5,7 @@
 ### Sean Bocirnea
 
 Professionally, I'm a Ph.D-track Masters of Computer Science student at the University of British Columbia in Vancouver, Canada.
-I'm interested in research on gradual and dependent types and the implementation of gradual dependently type languages, working under [Professor William J. Bowman](https://www.williamjbowman.com) at UBC.
+I'm interested in research on gradual and dependent types and the implementation of gradual dependently typed languages, working under [Professor William J. Bowman](https://www.williamjbowman.com) at UBC.
 For my undergraduate education I obtained a B.Sc in Honors Computer Science with Software Engineering, also from UBC.
 
 Personally, I'm interested in photography, rapid prototyping and electrical engineering, and a host of other things.
