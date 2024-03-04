@@ -9,14 +9,14 @@ A random collection of my personal opinions and pointers on film photography. Ot
 
 # Picking an ISO
 
-You're gonna have probably 3 different classes of film you'll want to stock up:
+You're gonna have probably 3 different categories of film you'll want to stock up:
 - 50 - 200 ISO for general outdoor shooting
 - 400 ish for indoor shooting
 - 800 - 3200 for dusk and nighttime. 
 
 With a fast lens, 50 - 200 will be fine for brighter indoor use. If you only have one roll, take a 160 - 200 ISO, it'll work out most of the time during the day, indoor and out.
 
-For indoor use, 400 ish ISO will be great, and with a fast lens shadowy areas will be ok too. You will have problems shooting 400 ISO outside, and will likely need to stop down your aperture if you don't have a camera with a very fast shutter speed (that's why something like a minolta a9 is so nice). 400 is another good ISO to always have. 
+For indoor use, 400 ish ISO will be great, and with a fast lens shadowy indoor areas will be ok too. You will have problems shooting 400 ISO outside, and will likely need to stop down your aperture if you don't have a camera with a very fast shutter speed (like a minolta a9). 400 is another good ISO to always have. 
 
 800+ ISO will not be a good experience outdoors, you will need a very narrow aperture to be able to use it. Great for low light indoors and dusk.
 1600+ ISO will be best for nighttime and dimly lit scenes. 
@@ -66,7 +66,7 @@ B/W films:
 
 # Remjet Removal
 
-Vision3 has a carbon black backing layer called remjet. If you ever shoot Vision3, you will need to remove this before processing in regular C41 chemicals. Fortunately, it's pretty easy:
+Kodak Vision3 has a carbon black backing layer called remjet. If you ever shoot Vision3, you will need to remove this before processing in regular C41 chemicals. Fortunately, it's pretty easy:
 
 Get a jug of hot water, add baking soda until no more dissolves. Wait for it to cool down and some of the soda to crystallize out. Take this solution and add it to your film tank. Shake for 60 seconds. Dump the solution back into the original jug (it can be reused). Then, rinse the film with water. Add water, shake vigorously, and dump it out. You should see it coming out black and opaque. Repeat this rinse step until the rinse is clear. Then, process normally.
 
