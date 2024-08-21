@@ -69,8 +69,6 @@ example, the `has-type` relation may rely on a unary `well-formed-type`
 relation, which specifies which syntaxes may even represent meaningful
 types.
 
- 
-
 In pursuit of adding new features to an object language, an ELF user
 would like to be able to add new syntactic forms with which to use them;
 we denote this *syntactic extension*, by which one modifies the
