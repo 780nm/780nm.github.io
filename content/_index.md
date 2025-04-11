@@ -19,4 +19,4 @@ Some relevant links:
 - If you'd like to get a hold of me, email [sean@passingti.me](mailto:sean@passingti.me)
 
 Publications:
-- April, 2024 - [Type-Preserving Flat Closure Optimization by Geller et al.](https://dl.acm.org/doi/10.1145/3720437)
+- April, 2024 - [Type-Preserving Flat Closure Optimization by Geller et al.](https://dl.acm.org/doi/10.1145/3720437) - [pdf](/papers/fcc-oopsla2025.pdf)
