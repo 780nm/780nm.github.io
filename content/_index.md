@@ -20,4 +20,5 @@ Some relevant links:
 - A spreadsheet of all the pens and pencils I've purchased, and some of my thoughts about them, can be found [here](https://1drv.ms/x/c/9ec370df4ba4e1d8/ESUpqmqWwidDmeMccfoSf44B9ckQT--HjzKsG7IqFcHI-g?e=JTztGL)
 
 Publications:
+- August 14, 2025 - [Fast and Extensible Hybrid Embeddings with Micros by Bocirnea et al.](https://doi.org/10.1145/3759537.3762696)
 - April 09, 2025 - [Type-Preserving Flat Closure Optimization by Geller et al.](https://dl.acm.org/doi/10.1145/3720437) - [pdf](/papers/fcc-oopsla2025.pdf)
