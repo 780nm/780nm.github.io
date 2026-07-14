@@ -14,7 +14,7 @@ Writings about my interests, professional and personal, can be found by category
 Some relevant links:
 - My [ORCID](https://orcid.org/0009-0007-5231-8618)
 - My [CV.pdf](/cv.pdf)
-- Projects for which I am able to make sources public are available on [GitHub](https://github.com/780nm)
+- Projects for which I am able to make sources public are available on [GitHub](https://github.com/780nm) or [Codeberg](https://codeberg.org/780nm)
 - I post some of my film photos on [Instagram](https://www.instagram.com/z80nm)
 - If you'd like to get a hold of me, email [sean@passingti.me](mailto:sean@passingti.me)
 
